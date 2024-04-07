@@ -1,9 +1,9 @@
 
 # Curriculum
-- [Prerequisites](#prerequisites)
+- [Prerequisites](#prerequisites)✅
 - [Intro CS](#intro-cs)
-  - [Introduction to Programming](#introduction-to-programming)
-  - [Introduction to Computer Science](#introduction-to-computer-science)
+  - [Introduction to Programming](#introduction-to-programming)⌛
+  - [Introduction to Computer Science](#introduction-to-computer-science)⌛
 - [Core CS](#core-cs)
   - [Core programming](#core-programming)
   - [Core math](#core-math)
